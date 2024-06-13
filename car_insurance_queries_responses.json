@@ -1,0 +1,122 @@
+[
+    {
+        "query": "What is covered under Section 2 of the policy?",
+        "response": "Section 2 covers Fire and Theft, which includes damage or loss caused by fire, theft, or attempted theft."
+    },
+    {
+        "query": "How do I make a claim if my car is damaged?",
+        "response": "To make a claim, call 0345 878 6261 with your personal details, policy number, car registration number, and a description of the loss or damage."
+    },
+    {
+        "query": "What is DriveSure?",
+        "response": "DriveSure is a telematics insurance product designed to monitor driving style and behavior, impacting your premium based on the recorded driving data."
+    },
+    {
+        "query": "Am I covered if I drive my car abroad?",
+        "response": "Coverage depends on your policy type and destination. Details are found in the 'Where you can drive' section on page 31."
+    },
+    {
+        "query": "What does the policy say about leaving the car unlocked?",
+        "response": "The policy won't cover theft or attempted theft if the car is left unlocked, with keys inside, with the engine running, or with a window/roof open."
+    },
+    {
+        "query": "Are electric car charging cables covered?",
+        "response": "Yes, home chargers and charging cables are considered accessories and are covered under Sections 2 and 4 of the policy."
+    },
+    {
+        "query": "Who can drive other cars under this policy?",
+        "response": "The certificate of motor insurance shows who is covered to drive other cars, but only third-party injury or damage is covered, not damage to the car being driven."
+    },
+    {
+        "query": "What is the market value as defined in the policy?",
+        "response": "Market value is the cost of replacing your car with one of the same make, model, age, mileage, and condition at the time of the accident or loss."
+    },
+    {
+        "query": "How long is the guarantee on repairs by approved repairers?",
+        "response": "Repairs by approved repairers are guaranteed for five years unless the car is sold or the lease ends."
+    },
+    {
+        "query": "What should I do if I receive legal communication after an accident?",
+        "response": "Contact the insurer immediately and provide any relevant information, documents, or help needed to process the claim."
+    },
+    {
+        "query": "Are modifications to my car covered?",
+        "response": "Modifications must be declared. They include any changes to the car\u2019s standard specification, such as wheels, suspension, bodywork, and engine."
+    },
+    {
+        "query": "What is excluded from coverage under this policy?",
+        "response": "Exclusions include mechanical or electrical failure, wear and tear, damage to tires from braking, and use by an uninsured or disqualified driver."
+    },
+    {
+        "query": "What happens if my car is written off?",
+        "response": "If your car is written off, the insurer will settle the claim based on the car's market value and the policy's terms."
+    },
+    {
+        "query": "Can I repair my car at a non-approved repairer?",
+        "response": "Yes, but repairs won't be guaranteed by the insurer, and the repairer\u2019s assessment must be approved before work begins."
+    },
+    {
+        "query": "What is covered under Section 1: Liability?",
+        "response": "Section 1 covers legal liability for injury to others and damage to their property caused by an accident involving your car."
+    },
+    {
+        "query": "Is vandalism covered by the policy?",
+        "response": "Yes, vandalism, defined as damage caused by a malicious and deliberate act, is covered."
+    },
+    {
+        "query": "How does the policy define a courtesy car?",
+        "response": "A courtesy car is a small hatchback or similar car provided temporarily by an approved repairer on behalf of the insurer."
+    },
+    {
+        "query": "What should I do if my car's windscreen is damaged?",
+        "response": "For windscreen claims, call 0800 328 9150. The policy covers repairs or replacement by approved suppliers, with specific excess amounts."
+    },
+    {
+        "query": "How does the policy handle claims for leased or hire purchase cars?",
+        "response": "Claims for leased cars are paid to the lease company, and claims for hire purchase cars are paid to the legal owner."
+    },
+    {
+        "query": "Are personal belongings in the car covered?",
+        "response": "Personal belongings may be covered under Section 6, but specific personal portable electronic or entertainment equipment may not be included."
+    },
+    {
+        "query": "What is the excess in a claim?",
+        "response": "The excess is the amount you pay towards a claim, detailed in your car insurance documents. Different excesses may apply to different drivers."
+    },
+    {
+        "query": "What is the definition of 'approved repairer'?",
+        "response": "An approved repairer is a repairer in the insurer\u2019s network authorized to carry out repairs to your car following a claim."
+    },
+    {
+        "query": "Can I claim for mechanical failure?",
+        "response": "No, the policy does not cover mechanical or electrical failure."
+    },
+    {
+        "query": "What is included under Section 6: Personal benefits?",
+        "response": "Section 6 covers personal accident benefits, medical expenses, and personal belongings damaged or lost in an accident."
+    },
+    {
+        "query": "What do I need to provide when making a claim?",
+        "response": "Provide personal details, policy number, car registration, and a description of the loss or damage. Additional documents may be required."
+    },
+    {
+        "query": "Is business use covered under this policy?",
+        "response": "Yes, if business use is included in your certificate of motor insurance, it covers driving in connection with a business or employment."
+    },
+    {
+        "query": "What should I do if my car is stolen?",
+        "response": "Report the theft to the police and the insurer. If your car is recovered, follow the insurer's instructions for inspection and repairs."
+    },
+    {
+        "query": "Are there any restrictions on using my car for commuting?",
+        "response": "Commuting is covered if included in your policy, which allows driving to and from a permanent place of work, including related parking."
+    },
+    {
+        "query": "How are repairs to my car's parts handled?",
+        "response": "Repairs may use non-manufacturer parts of similar standard, including recycled parts. Availability and cost considerations apply."
+    },
+    {
+        "query": "What is the policy regarding the use of trailers?",
+        "response": "A trailer specifically built to be towed by a car is covered, but its contents may not be included."
+    }
+]
